@@ -12,8 +12,6 @@
 
 - :zap: I love math, programming and books.
 - 🌱 I’m addicted to learning and growing every day.
-- 📫 How to find me:
-  - :office: [LinkedIn](https://www.linkedin.com/in/kedar-hargude-608850140)
 
 ![Kedar's github stats](https://github-readme-stats.vercel.app/api?username=kedar-hargude&show_icons=true&hide_border=true)
 <br />
