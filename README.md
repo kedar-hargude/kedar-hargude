@@ -9,11 +9,12 @@
 <a href="mailto:hargude481@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<br>
+
 <br>
 - :zap: I love math, programming and books.
+<br>
 - 🌱 I’m addicted to learning and growing every day.
-
+<br>
 ![Kedar's github stats](https://github-readme-stats.vercel.app/api?username=kedar-hargude&show_icons=true&hide_border=true)
-<br />
+<br>
 
