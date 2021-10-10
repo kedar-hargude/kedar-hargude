@@ -9,7 +9,8 @@
 <a href="mailto:hargude481@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<br>
+
+
 - :zap: I love math, programming and books.
 - 🌱 I’m addicted to learning and growing every day.
 
