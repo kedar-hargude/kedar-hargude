@@ -13,6 +13,7 @@
 <br />
 
 ## About Me 🚀
+- 👨‍💻 Currently an Outreachy applicant.
 - 🎓 I’m an Open-Source enthusiast.
 - :zap: I love math, programming and books.
 - 🌱 I’m addicted to learning and growing every day.
