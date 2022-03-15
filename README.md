@@ -13,7 +13,7 @@
 <br />
 
 ## About Me 🚀
-- 🎓 I’m an Open-Source enthusiast.
+- 🎓 I’m an Open-Source enthusiast, full stack by profession.
 - :zap: I love math, programming, books and anime.
 - 🌱 I’m addicted to learning and growing every day.
 <br />
